@@ -2,7 +2,7 @@
 - 👀 I’m interested in Anime, Video games and media.
 - 🌱 I’m currently learning RenPy, Unity, and Unreal Engine
 - 💞️ I’m looking to collaborate on Visual novel projects
-- 📫 How to reach me at https://twitter.com/EmilyChanvP for now 
+- 📫 How to reach me at https://twitter.com/EmilyChanvP for now :D
 
 [![Mayumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilyTan299&show_icons=true&theme=dark)](https://github.com/EmilyTan299/github-readme-stats)
 
